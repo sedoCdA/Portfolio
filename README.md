@@ -13,7 +13,7 @@
 ---
 
 ## Technical Arsenal
-* **AI/ML:** Gen AI, Agentic AI, LLMs, RAG, MLOps.
+* **AI/ML:** Gen AI, Agentic AI, LLMs, RAG, NLP, MLOps, Python, Numpy, Pandas, Keras.
 * **Backend:** Java, Spring Boot, Microservices, MySQL.
 * **Frontend:** React.js, Tailwind, Vanilla JS (Canvas).
 * **Cloud:** AWS, Google Cloud (GCP).
@@ -22,7 +22,7 @@
 
 ## Education & Experience
 * **PGD Scholar** @ IIT Gandhinagar (AI/ML & Data Science).
-* **Software Engineer** @ Capgemini (LND I-Transform).
+* **Software Engineer** @ Capgemini
 * **B.Tech** @ GLA University (Computer Science).
 
 ---
